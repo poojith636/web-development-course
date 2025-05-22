@@ -1,0 +1,13 @@
+<html>
+
+<head>
+ <title> sports </title>
+</head>
+<body>
+ <h1>sports</h1> 
+</p>Sports play a vital role in promoting physical health and mental well-being. They teach important values like teamwork,
+discipline, and perseverance. Whether played professionally or casually, sports bring people together and build a sense
+of community. From soccer to basketball, every sport offers unique challenges and excitement. Engaging in sports also
+provides a fun way to relieve stress and stay active.<br>
+</body>
+</html>
