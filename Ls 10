@@ -1,6 +1,7 @@
 <html>
 
 <head>
+<style>
 body {
 
 font-family: 'Arial', sans-serif;
@@ -104,7 +105,9 @@ font-size: 200%;
 color: #FF7B72;
 
 }
+
 <link rel="stylesheet" href="stlye.css">
+</style>
 </head>
 <body>
 <h1>welcome to space club</h1>
