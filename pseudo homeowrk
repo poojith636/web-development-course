@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Explore Space</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Welcome to Space Exploration</h1>
+  <p>Discover the wonders of the universe, from stars to black holes.</p>
+
+  <a href="https://www.nasa.gov" target="_blank">Visit NASA for more</a>
+
+  <h2>Fascinating Space Facts</h2>
+  <ul>
+    <li>The Sun is 400 times larger than the Moon.</li>
+    <li>There are more stars in the universe than grains of sand on Earth.</li>
+    <li>Venus is the hottest planet in our solar system.</li>
+    <li>A day on Venus is longer than its year.</li>
+  </ul>
+
+</body>
+</html>
