@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>document</title>
+</head>
+<body>
+<h2> javascript and their properties</h2>
+<p id="demo"></p>
+<script>
+var person = {name: poojith,age:14 };
+document.getelementbyid("demo").innerhtml = person.name + and i am" + person["age"] + "years old".;
+</script>
+</body>
+</html>
