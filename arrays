@@ -1,0 +1,13 @@
+<html>
+<body>
+<h3>javacript arrays</h3>
+<script>
+var cars [
+"coding",
+"magic",
+learn
+];
+document.getelementbyid("demo").innerhtml =cars2
+</script>
+</body>
+</html>
