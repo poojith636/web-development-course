@@ -26,6 +26,10 @@ href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;70
 rel="stylesheet" />
 </head>
 <body>
+<style>
+html}
+scroll behaviour-smooth;
+}
     <div id="projects" class="container mt-5 pt-5">
         <div class="row">
             <!-- First Project Card -->
